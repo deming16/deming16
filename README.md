@@ -1,6 +1,12 @@
 # [![Header](https://github.com/deming16/deming16/blob/master/banner.png)](https://lindeming.com)
 
-### Hi there 👋
+### About Me
+Name: Deming
+Based In: Singapore
+Role: Remote Software Engineer Intern
+Currently At: Edison Inc. (San Jose HQ and Beijing Branch)
+Previously At: NodeFlair
+
 <hr />
 
 ### Technologies & Tools
