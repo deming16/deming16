@@ -1,4 +1,5 @@
-[![Header](./Deming Lin.png)](https:lindeming.com)
+![Header](https://github.com/deming16/deming16/blob/master/Deming Lin.jpg?raw=true)
+
 ### Hi there 👋
 
 <!--
