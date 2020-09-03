@@ -1,4 +1,4 @@
-![Header](https://github.com/deming16/deming16/blob/master/DemingLin.jpg?raw=true)
+![Header](https://github.com/deming16/deming16/blob/master/DemingLin.png)
 
 ### Hi there 👋
 
