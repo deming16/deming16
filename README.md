@@ -1,10 +1,11 @@
 # [![Header](https://github.com/deming16/deming16/blob/master/banner.png)](https://lindeming.com)
 
-### About Me
-Name: Deming
-Based In: Singapore
-Role: Remote Software Engineer Intern
-Currently At: Edison Inc. (San Jose HQ and Beijing Branch)
+### Hello There 👋
+### I am a senior year CS major at National University of Singapore(NUS) and currently interning at Edison
+Name: Deming\
+Based In: Singapore\
+Role: Remote Software Engineer Intern\
+Currently At: Edison Inc. (San Jose HQ and Beijing Branch)\
 Previously At: NodeFlair
 
 <hr />
