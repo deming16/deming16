@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/deming16/Deming Lin.png "Header")](https:lindeming.com)
+[![Header](./Deming Lin.png "Header")](https:lindeming.com)
 ### Hi there 👋
 
 <!--
