@@ -18,7 +18,7 @@ Previously At: NodeFlair
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-[![Deming's github stats](https://github-readme-stats.vercel.app/api?username=deming16&line_height=30&theme=gruvbox&show_icons=true&count_private=true&hide=stars,contribs)](https://github.com/deming16/github-readme-stats)
+[![Deming's github stats](https://github-readme-stats.vercel.app/api?username=deming16&line_height=30&theme=gruvbox&show_icons=true&count_private=true&hide=stars,contribs)](https://github.com/deming16)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deming16&repo=Highway-1478&theme=gruvbox)](https://github.com/deming16/Highway-1478)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deming16&repo=ModsUni&theme=gruvbox)](https://github.com/deming16/ModsUni)
