@@ -11,9 +11,9 @@
 
 <h3 align='center'> Reach me at</h3>
 <p align='center'>
-<a href="https://lindeming.com"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="deminglindm@gmail.com"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/lindeming/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://lindeming.com"><img height="30" src="./dev.png"></a>&nbsp;&nbsp;
+<a href="mailto:deminglindm@gmail.com"><img height="30" src="./email.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/lindeming/"><img height="30" src="./linkedin.png?raw=true"></a>
 </p>
 
 <hr />
