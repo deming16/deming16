@@ -1,12 +1,20 @@
 # [![Header](https://github.com/deming16/deming16/blob/master/banner.png)](https://lindeming.com)
 
-### Hello There 👋
-### I am a senior year CS major at National University of Singapore(NUS) and currently interning at Edison
-Name: Deming\
-Based In: Singapore\
-Role: Remote Software Engineer Intern\
-Currently At: Edison Inc. (San Jose HQ and Beijing Branch)\
-Previously At: NodeFlair
+## Hello There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+### I am a senior year CS major at National University of Singapore (NUS) with a focus in software engineering
+**Name:** Deming\
+**Based In:** Singapore\
+**Role:** Remote Software Engineer Intern\
+**Currently At:** Edison Inc. (San Jose HQ and Beijing Branch)\
+**Previously At:** NodeFlair
+
+<h3 align='center'> Reach me at</h3>
+<p align='center'>
+<a href="https://lindeming.com"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="deminglindm@gmail.com"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/lindeming/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
 <hr />
 
