@@ -12,7 +12,7 @@
 <h3 align='center'> Reach me at</h3>
 <p align='center'>
 <a href="https://lindeming.com"><img height="30" src="./dev.png"></a>&nbsp;&nbsp;
-<a href="mailto:deminglindm@gmail.com"><img height="30" src="./email.png?raw=true"></a>
+<a href="mailto:deminglindm@gmail.com"><img height="30" src="./email.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lindeming/"><img height="30" src="./linkedin.png?raw=true"></a>
 </p>
 
