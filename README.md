@@ -26,7 +26,8 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-[![Deming's github stats](https://github-readme-stats.vercel.app/api?username=deming16&line_height=30&theme=gruvbox&show_icons=true&count_private=true&hide=stars,contribs)](https://github.com/deming16)
+[![Deming's github stats](https://github-readme-stats.vercel.app/api?username=deming16&line_height=31.5&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,stars)](https://github.com/deming16)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deming16&layout=compact&theme=gruvbox)](https://github.com/deming16)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deming16&repo=Highway-1478&theme=gruvbox)](https://github.com/deming16/Highway-1478)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deming16&repo=ModsUni&theme=gruvbox)](https://github.com/deming16/ModsUni)
