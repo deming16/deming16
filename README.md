@@ -2,12 +2,10 @@
 
 ## Hello There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I am a senior year CS major at National University of Singapore (NUS) with a focus in software engineering
+### I a Computer Science graduate with a focus in software engineering
 **Name:** Deming\
 **Based In:** Singapore\
-**Role:** Remote Software Engineer Intern\
-**Currently At:** Edison Inc. (San Jose HQ and Beijing Branch)\
-**Previously At:** NodeFlair
+**Previously At:** Edison Inc. NodeFlair
 
 <h3 align='center'> Reach me at</h3>
 <p align='center'>
