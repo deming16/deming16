@@ -2,8 +2,8 @@
 
 **I am a software engineer, graduated with B.Comp. Computer Science at NUS(Class of 2021)**
 
-- Previously At: Edison Inc. NodeFlair
-- Reach me at: [Linkedin](https://www.linkedin.com/in/lindeming/), 
+- Previously At: [Edison Inc](https://www.edison.tech/), [NodeFlair](https://www.nodeflair.com/)
+- Reach me at: [Linkedin](https://www.linkedin.com/in/lindeming/)
 
 ### Technologies & Tools
 ![](https://img.shields.io/badge/Frontend-JavaScript/TypeScript%20|%20React%20|%20Next.js-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)\
