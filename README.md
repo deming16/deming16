@@ -6,11 +6,11 @@
 - Reach me at: [Linkedin](https://www.linkedin.com/in/lindeming/), 
 
 ### Technologies & Tools
-![](https://img.shields.io/badge/Frontend-JavaScript/TypeScript%20|%20React%20|%20Next.js-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-Tools-Caldav%20|%20Mapbox-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Backend-Node/Express%20|%20Python%20|%20Rails-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Backend-Tools-Sequelize.js%20|%20PostgreSQL%20|%20Redis-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cross-Platform-Flutter%20|%20Electron.js%20|%20React%20Native-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-JavaScript/TypeScript%20|%20React%20|%20Next.js-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)\
+![](https://img.shields.io/badge/Frontend%20Tools-Caldav%20|%20Mapbox-informational?style=flat&logo=mapbox&logoColor=white&color=2bbc8a)\
+![](https://img.shields.io/badge/Backend-Node/Express%20|%20Python%20|%20Rails-informational?style=flat&logo=serverless&logoColor=white&color=2bbc8a)\
+![](https://img.shields.io/badge/Backend%20Tools-Sequelize.js%20|%20PostgreSQL%20|%20Redis-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)\
+![](https://img.shields.io/badge/Cross%20Platform-Flutter%20|%20Electron.js%20|%20React%20Native-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)\
 ![](https://img.shields.io/badge/Devops-Docker%20|%20Azure%20|%20AWS-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <hr />
