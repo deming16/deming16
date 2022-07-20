@@ -5,11 +5,6 @@
 - Previously At: Edison Inc. NodeFlair
 - Reach me at: [Linkedin](https://www.linkedin.com/in/lindeming/), 
 
-<h3 align='center'> Reach me at</h3>
-<p align='center'>
-<a href="https://lindeming.com"><img height="30" src="https://github.com/deming16/deming16/blob/master/dev.png"></a>&nbsp;&nbsp;
-</p>
-
 <hr />
 
 ### Technologies & Tools
