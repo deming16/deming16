@@ -16,5 +16,3 @@
 <hr />
 
 [![Deming's github stats](https://github-readme-stats.vercel.app/api?username=deming16&line_height=31.5&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,stars)](https://github.com/deming16)
-
-[![My work at Govtech](https://github-readme-stats.vercel.app/api?username=deminggov&line_height=31.5&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,stars)](https://github.com/deminggov)
