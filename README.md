@@ -1,17 +1,13 @@
-# [![Header](https://github.com/deming16/deming16/blob/master/banner.png)](https://lindeming.com)
+### Hello There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Hello There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+**I am a software engineer, graduated with B.Comp. Computer Science at NUS(Class of 2021)**
 
-### I a Computer Science graduate with a focus in software engineering
-**Name:** Deming\
-**Based In:** Singapore\
-**Previously At:** Edison Inc. NodeFlair
+- Previously At: Edison Inc. NodeFlair
+- Reach me at: [Linkedin](https://www.linkedin.com/in/lindeming/), 
 
 <h3 align='center'> Reach me at</h3>
 <p align='center'>
 <a href="https://lindeming.com"><img height="30" src="https://github.com/deming16/deming16/blob/master/dev.png"></a>&nbsp;&nbsp;
-<a href="mailto:deminglindm@gmail.com"><img height="30" src="https://github.com/deming16/deming16/blob/master/email.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/lindeming/"><img height="30" src="https://github.com/deming16/deming16/blob/master/linkedin.png"></a>
 </p>
 
 <hr />
